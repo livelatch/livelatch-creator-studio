@@ -24,6 +24,8 @@ LCS is designed to provide overlay assets on your streams that connect to the li
 
 ## Documentation
 - coming soon.
+- <img width="1754" height="1228" alt="image" src="https://github.com/user-attachments/assets/950e8320-fc83-4c86-a648-f363434d6400" />
+
 
 ## Discord
 https://discord.gg/brxuyDUDsQ

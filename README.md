@@ -1,37 +1,64 @@
-# Livelatch Creator Studio (LCS)
-A desktop livestream companion for live streams
+<div align="center">
 
-## What platforms are supported
-### Currently Supported
-- Tiktok
-### Planned Support
-- YouTube
-- Twitch
+# 🎬 Livelatch Creator Studio (LCS)
+
+**A desktop livestream companion that connects your streams to the Livelatch ecosystem.**
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white)](https://discord.gg/brxuyDUDsQ)
+[![Website](https://img.shields.io/badge/Livelatch-livelatch.com-0092ec)](https://livelatch.com)
+[![Docs](https://img.shields.io/badge/Docs-livelatch.any.org%2Flcs-0ce5de)](https://livelatch.any.org/lcs)
+
+</div>
+
+---
 
 ## What is LCS?
-LCS is designed to provide overlay assets on your streams that connect to the livelatch ecosystem. 
 
-## Current Features
-- Live view of your stream (gifts, likes, follows, CCV)
-- End of Stream Credits (OBS ready end credits)
-- Credit scene customization
-## Planned Features
-- Latchdeck Overlay
-- Deep analytics
-- Gift Goals
-- Live Captions
-- Instant Replay
+LCS provides overlay assets and real-time stream tools that plug directly into the Livelatch ecosystem — giving creators richer, more interactive livestreams without leaving their broadcast setup.
 
-## Documentation
-- coming soon.
-- <img width="1754" height="1228" alt="image" src="https://github.com/user-attachments/assets/950e8320-fc83-4c86-a648-f363434d6400" />
+---
 
+## Platform Support
 
-## Discord
-https://discord.gg/brxuyDUDsQ
+| Platform | Status |
+|----------|--------|
+| TikTok   | ✅ Supported |
+| YouTube  | 🔜 Planned |
+| Twitch   | 🔜 Planned |
 
-## Livelatch
-https://livelatch.com
+## OS Support
 
-## Contact
-hello@livelatch.com
+| Operating System | Status |
+|------------------|--------|
+| Windows 11       | ✅ Supported |
+| macOS            | 🔜 Planned |
+| Debian           | 🔜 Planned |
+
+---
+
+## Features
+
+### Available Now
+
+- **Live Stream View** — real-time gifts, likes, follows, and concurrent viewer count
+- **End-of-Stream Credits** — OBS-ready rolling credits for your stream
+- **Credit Scene Customisation** — tailor the look and feel of your credits
+
+### Coming Soon
+
+- **LatchDeck Overlay** — surface collectible cards live on stream
+- **Deep Analytics** — detailed post-stream performance insights
+- **Gift Goals** — set and display live gift targets
+- **Live Captions** — real-time captioning for accessibility
+- **Instant Replay** — highlight key moments on the fly
+
+---
+
+## Links
+
+| | |
+|---|---|
+| 📖 **Documentation** | [livelatch.any.org/lcs](https://livelatch.any.org/lcs) |
+| 💬 **Discord** | [discord.gg/brxuyDUDsQ](https://discord.gg/brxuyDUDsQ) |
+| 🌐 **Website** | [livelatch.com](https://livelatch.com) |
+| ✉️ **Contact** | [hello@livelatch.com](mailto:hello@livelatch.com) |

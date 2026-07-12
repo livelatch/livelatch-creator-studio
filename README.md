@@ -43,6 +43,7 @@ LCS provides overlay assets and real-time stream tools that plug directly into t
 - **Live Stream View** — real-time gifts, likes, follows, and concurrent viewer count
 - **End-of-Stream Credits** — OBS-ready rolling credits for your stream
 - **Credit Scene Customisation** — tailor the look and feel of your credits
+- **Audience Insights** — Discover who is most active in your community
 
 ### Coming Soon
 
